@@ -1,0 +1,289 @@
+{
+  "categories": [
+    {
+      "slug": "volante",
+      "name": "Volante",
+      "description": "Volanti in pelle originali, multifunzione e riscaldabili, rigenerati o nuovi per ogni modello.",
+      "image": "/images/products/volante-jeep-renegade-1.jpeg"
+    },
+    {
+      "slug": "interni-auto",
+      "name": "Interni auto",
+      "description": "Sedili, pannelli e rivestimenti completi realizzati su misura in pelle e tessuti tecnici.",
+      "image": "/images/products/pannelli-jeep-renegade-1.jpeg"
+    },
+    {
+      "slug": "tappezzeria",
+      "name": "Tappezzeria",
+      "description": "Tappezzerie complete su misura: sedili anteriori, posteriori e pannelli porta.",
+      "image": "/images/products/tappezzeria-ds3-crossback-1.jpeg"
+    }
+  ],
+  "products": [
+    {
+      "slug": "volante-jeep-renegade",
+      "name": "Volante Jeep Renegade",
+      "priceCents": 10000,
+      "description": "Volante Jeep Renegade con comandi riscaldabile",
+      "categories": [
+        "Volante"
+      ],
+      "images": [
+        "/images/products/volante-jeep-renegade-1.jpeg",
+        "/images/products/volante-jeep-renegade-2.jpeg",
+        "/images/products/volante-jeep-renegade-3.jpeg"
+      ]
+    },
+    {
+      "slug": "pannelli-jeep-renegade",
+      "name": "Pannelli Jeep Renegade set 4 pannelli",
+      "priceCents": 20000,
+      "description": "Vendo pannelli Jeep Renegade set completo di pannelli anteriori e posteriori",
+      "categories": [
+        "Interni auto"
+      ],
+      "images": [
+        "/images/products/pannelli-jeep-renegade-1.jpeg",
+        "/images/products/pannelli-jeep-renegade-2.jpeg",
+        "/images/products/pannelli-jeep-renegade-3.png",
+        "/images/products/pannelli-jeep-renegade-4.jpeg",
+        "/images/products/pannelli-jeep-renegade-5.jpeg",
+        "/images/products/pannelli-jeep-renegade-6.jpeg",
+        "/images/products/pannelli-jeep-renegade-7.jpeg",
+        "/images/products/pannelli-jeep-renegade-8.jpeg"
+      ]
+    },
+    {
+      "slug": "volante-seat-cupra-formentor-leon",
+      "name": "Volante Seat Cupra Formentor / Leon",
+      "priceCents": 18000,
+      "description": "Volante Seat Cupra Formentor Seat Leon volante sportivo con paddle e comandi",
+      "categories": [
+        "Volante"
+      ],
+      "images": [
+        "/images/products/volante-seat-cupra-formentor-leon-1.jpeg",
+        "/images/products/volante-seat-cupra-formentor-leon-2.jpeg",
+        "/images/products/volante-seat-cupra-formentor-leon-3.jpeg",
+        "/images/products/volante-seat-cupra-formentor-leon-4.jpeg",
+        "/images/products/volante-seat-cupra-formentor-leon-5.jpeg",
+        "/images/products/volante-seat-cupra-formentor-leon-6.jpeg",
+        "/images/products/volante-seat-cupra-formentor-leon-7.jpeg"
+      ]
+    },
+    {
+      "slug": "volante-fiat-500e-abarth",
+      "name": "Volante Fiat 500E Abarth",
+      "priceCents": 20000,
+      "description": "Volante Fiat 500 e versione A. Nuovo in pelle con comandi.",
+      "categories": [
+        "Volante"
+      ],
+      "images": [
+        "/images/products/volante-fiat-500e-abarth-1.jpeg",
+        "/images/products/volante-fiat-500e-abarth-2.jpeg",
+        "/images/products/volante-fiat-500e-abarth-3.jpeg",
+        "/images/products/volante-fiat-500e-abarth-4.jpeg",
+        "/images/products/volante-fiat-500e-abarth-5.jpeg",
+        "/images/products/volante-fiat-500e-abarth-6.jpeg"
+      ]
+    },
+    {
+      "slug": "volante-fiat-panda-312",
+      "name": "Volante Fiat Panda 312",
+      "priceCents": 15000,
+      "description": "Volante Fiat Panda 312 in pelle con possibilità di vendita, anche senza airbag",
+      "categories": [
+        "Volante"
+      ],
+      "images": [
+        "/images/products/volante-fiat-panda-312-1.jpeg",
+        "/images/products/volante-fiat-panda-312-2.jpeg",
+        "/images/products/volante-fiat-panda-312-3.jpeg",
+        "/images/products/volante-fiat-panda-312-4.jpeg",
+        "/images/products/volante-fiat-panda-312-5.jpeg",
+        "/images/products/volante-fiat-panda-312-6.jpeg",
+        "/images/products/volante-fiat-panda-312-7.jpeg"
+      ]
+    },
+    {
+      "slug": "volante-dacia-stepway",
+      "name": "Volante Dacia Stepway",
+      "priceCents": 9000,
+      "description": "Volante Dacia Sandero Stepway anno 2017, volante più comandi volante in pelle nero",
+      "categories": [
+        "Volante"
+      ],
+      "images": [
+        "/images/products/volante-dacia-stepway-1.jpeg",
+        "/images/products/volante-dacia-stepway-2.jpeg",
+        "/images/products/volante-dacia-stepway-3.jpeg",
+        "/images/products/volante-dacia-stepway-4.jpeg",
+        "/images/products/volante-dacia-stepway-5.jpeg",
+        "/images/products/volante-dacia-stepway-6.jpeg"
+      ]
+    },
+    {
+      "slug": "volante-audi-a1-multifunzione",
+      "name": "Volante Audi A1 2018 – 2024",
+      "priceCents": 25000,
+      "description": "volante Audi A1, multifunzione con comandi e paddle in pelle originale",
+      "categories": [
+        "Volante"
+      ],
+      "images": [
+        "/images/products/volante-audi-a1-multifunzione-1.jpeg",
+        "/images/products/volante-audi-a1-multifunzione-2.jpeg",
+        "/images/products/volante-audi-a1-multifunzione-3.jpeg",
+        "/images/products/volante-audi-a1-multifunzione-4.jpeg",
+        "/images/products/volante-audi-a1-multifunzione-5.jpeg"
+      ]
+    },
+    {
+      "slug": "tappezzeria-ds3-crossback",
+      "name": "Tappezzeria DS3 crossback",
+      "priceCents": 45000,
+      "description": "tappezzeria ds3 Crossback totalmente in pelle\n\nSedili anteriori posteriori e pannelli",
+      "categories": [
+        "Interni auto",
+        "Tappezzeria"
+      ],
+      "images": [
+        "/images/products/tappezzeria-ds3-crossback-1.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-2.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-3.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-4.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-5.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-6.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-7.jpeg",
+        "/images/products/tappezzeria-ds3-crossback-8.jpeg"
+      ]
+    },
+    {
+      "slug": "tappezzeria-ford-kuga",
+      "name": "Tappezzeria Ford Kuga",
+      "priceCents": 45000,
+      "description": "Vendo tappezzeria completa Ford fuga dal 2008 al 2012 sedili completamente in pelle",
+      "categories": [
+        "Interni auto",
+        "Tappezzeria"
+      ],
+      "images": [
+        "/images/products/tappezzeria-ford-kuga-1.jpeg",
+        "/images/products/tappezzeria-ford-kuga-2.jpeg",
+        "/images/products/tappezzeria-ford-kuga-3.jpeg",
+        "/images/products/tappezzeria-ford-kuga-4.jpeg"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "slug": "stanco-e-stufo-della-classica-tappezzeria-in-tessuto-o-vuoi-effettuare",
+      "title": "Stanco e stufo della classica tappezzeria in tessuto… o vuoi effettuare un restyling dell’interno della tua auto o del tuo veicolo commerciale?!",
+      "excerpt": "Vorresti cambiare il look della tua auto o del tuo veicolo commerciale? Affidati a noi della INTERNI AUTO e troveremo la soluzione giusta per te! La nostra novità è che ritiriamo interni da crash-test in perfette condizioni, senza alcun segno di usura in tessu",
+      "content": "Vorresti cambiare il look della tua auto o del tuo veicolo commerciale?\n\nAffidati a noi della INTERNI AUTO e troveremo la soluzione giusta per te!\n\nLa nostra novità è che ritiriamo interni da crash-test in perfette condizioni, senza alcun segno di usura in tessuto, misto pelle o interamente in pelle.\n\nRICHIEDI INFO e SAREMO A TUA COMPLETA DISPOSIZIONE!\n\nhttps://www.tiktok.com/@vitovangi?_t=8k4cHuryfaL&_r=1",
+      "category": "Mondo Auto",
+      "publishedAt": "2024-02-21",
+      "cover": "/images/blog/stanco-e-stufo-della-classica-tappezzeria-in-tessuto-o-vuoi-effettuare.jpg"
+    },
+    {
+      "slug": "selleria-moto",
+      "title": "Selleria moto",
+      "excerpt": "Con grande cura e professionalità eseguiamo nuovi rivestimenti in pelle e altri tessuti, modifiche nell’imbottitura, trapuntature e ricami.",
+      "content": "Con grande cura e professionalità eseguiamo nuovi rivestimenti in pelle e altri tessuti, modifiche nell’imbottitura, trapuntature e ricami.",
+      "category": "Realizzazioni",
+      "publishedAt": "2023-07-25",
+      "cover": "/images/blog/selleria-moto.jpg"
+    },
+    {
+      "slug": "sottotetto",
+      "title": "Sottotetto",
+      "excerpt": "Con il tempo il tettuccio interno dell’auto si rovina e la colla cede creando rigonfiamenti antiestetici. Interni auto soddisfa ogni tipo di esigenza dei propri clienti…. Un altro comune problema, la caduta del cielo (#sottotetto) del veicolo, affidati a noi, ",
+      "content": "Con il tempo il tettuccio interno dell’auto si rovina e la colla cede creando rigonfiamenti antiestetici.\n\nInterni auto soddisfa ogni tipo di esigenza dei propri clienti….\n\nUn altro comune problema, la caduta del cielo (#sottotetto) del veicolo, affidati a noi, ti offriremo un ottimo servizio utilizzando materiali di eccellente qualità.",
+      "category": "Realizzazioni",
+      "publishedAt": "2023-07-25",
+      "cover": "/images/blog/sottotetto.jpeg"
+    },
+    {
+      "slug": "interni-auto",
+      "title": "Interni auto",
+      "excerpt": "Una tappezzeria nuova o rinnovata rende l’interno della nostra automobile un luogo accogliente per noi e per i nostri passeggeri.",
+      "content": "Una tappezzeria nuova o rinnovata rende l’interno della nostra automobile un luogo accogliente per noi e per i nostri passeggeri.",
+      "category": "Realizzazioni",
+      "publishedAt": "2023-07-25",
+      "cover": "/images/blog/interni-auto.jpeg"
+    },
+    {
+      "slug": "auto-depoca",
+      "title": "Auto d’epoca",
+      "excerpt": "Interni Auto è uno specialista nel restauro degli interni di auto d’epoca e si prenderà cura del tuo modello, in tutte le sue parti, con estrema cura, precisione e professionalità",
+      "content": "Interni Auto è uno specialista nel restauro degli interni di auto d’epoca e si prenderà cura del tuo modello, in tutte le sue parti, con estrema cura, precisione e professionalità",
+      "category": "Realizzazioni",
+      "publishedAt": "2023-07-25",
+      "cover": "/images/blog/auto-depoca.jpg"
+    },
+    {
+      "slug": "volante",
+      "title": "Volante",
+      "excerpt": "Siamo specializzati nella riparazione di volanti in pelle. L’intervento di rigenerazione è in grado di riportare i volanti di qualsiasi casa automobilistica allo stato originario.",
+      "content": "Siamo specializzati nella riparazione di volanti in pelle. L’intervento di rigenerazione è in grado di riportare i volanti di qualsiasi casa automobilistica allo stato originario.",
+      "category": "Realizzazioni",
+      "publishedAt": "2023-07-25",
+      "cover": "/images/blog/volante.jpeg"
+    },
+    {
+      "slug": "le-nostre-realizzazioni-sempre-top",
+      "title": "Le nostre realizzazioni … SEMPRE TOP!!",
+      "excerpt": "Una delle nostre ultime chicche? Scorri e leggi per scoprirla! Abbiamo realizzato un interno per il nostro fantastico cliente, particolarmente stanco di vedere l’abitacolo del suo veicolo opacizzato, sporco, ma soprattutto usurato a causa degli anni di utilizz",
+      "content": "Una delle nostre ultime chicche?\n\nScorri e leggi per scoprirla!\n\nAbbiamo realizzato un interno per il nostro fantastico cliente, particolarmente stanco di vedere l’abitacolo del suo veicolo opacizzato, sporco, ma soprattutto usurato a causa degli anni di utilizzo.\n\nLa nostra professionalità e la cura dei dettagli ha reso il tutto possibile dando colore, luce e un restyling alla sua autovettura.\n\nTU SCEGLI IL TUO PROGETTO IDEALE, AL RESTO CI PENSIAMO NOI!\n\nContattaci in privato per maggiori informazioni o… ci vediamo da INTERNI AUTO!",
+      "category": "Mondo Auto",
+      "publishedAt": "2023-05-20",
+      "cover": "/images/blog/le-nostre-realizzazioni-sempre-top.jpeg"
+    },
+    {
+      "slug": "problemi-con-il-cruscotto-auto-contattaci-e-scopri-come-risolverlo",
+      "title": "Problemi con il cruscotto auto? Contattaci e scopri come risolverlo…",
+      "excerpt": "Hai acquistato un veicolo usato? Ha un problema al cruscotto e non vuoi assolutamente coprirlo con quei classici tappetini? CONTATTACI E SCOPRI COME PUOI INTERVENIRE… Negli anni ti sarà capitato di vedere o avere tra le mani un veicolo con il cruscotto dannegg",
+      "content": "Hai acquistato un veicolo usato? Ha un problema al cruscotto e non vuoi assolutamente coprirlo con quei classici tappetini? CONTATTACI E SCOPRI COME PUOI INTERVENIRE…\n\nNegli anni ti sarà capitato di vedere o avere tra le mani un veicolo con il cruscotto danneggiato, all’inizio pensavamo fosse un problema irrisolvibile, tanto da dover optare per la copertura, con un semplice tappetino venduto su internet appositamente per nascondere quel fastidiossissimo difetto. Con la nostra esperienza, abbiamo conosciuto prodotti di qualità e attuato le nostre conoscenze facendo prove e test, che hanno portato a dei risultati positivi.",
+      "category": "Mondo Auto",
+      "publishedAt": "2022-12-21",
+      "cover": "/images/blog/problemi-con-il-cruscotto-auto-contattaci-e-scopri-come-risolverlo.jpeg"
+    },
+    {
+      "slug": "personalizzazione-interni",
+      "title": "Personalizzazione interni",
+      "excerpt": "I sedili sono una componente essenziale della nostra auto. In alcuni casi, però, è necessaria la riparazione di questi ultimi a causa della comparsa di segni dovuti all’usura, alle macchie solari o all’esposizione ad alte temperature. Infatti, col passare del ",
+      "content": "I sedili sono una componente essenziale della nostra auto. In alcuni casi, però, è necessaria la riparazione di questi ultimi a causa della comparsa di segni dovuti all’usura, alle macchie solari o all’esposizione ad alte temperature. Infatti, col passare del tempo è inevitabile avere a che fare con tagli, strappi e buchi nel tessuto che danno alla nostra vettura un aspetto trasandato. Per noi, la soddisfazione del cliente è uno dei punti di forza aziendali, in seguito abbiamo un classico esempio della nostra personalizzazione effettuata su un’autovettura.",
+      "category": "Mondo Auto",
+      "publishedAt": "2022-05-23",
+      "cover": "/images/blog/personalizzazione-interni.jpg"
+    },
+    {
+      "slug": "simil-pelle-o-tessuto-scegli-con-cura-il-prodotto-piu-adatto-alle-tue-",
+      "title": "Simil pelle o tessuto? Scegli con cura il prodotto più adatto alle tue esigenze.",
+      "excerpt": "La simil pelle, è un prodotto di origine non animale, ottenuta ricoprendo materiali plastici altre stoffe come lino, cotone o fibre sintetiche. Come ogni cosa ha i suoi vantaggi e svantaggi: È molto più economica e accessibile della pelle. Resiste al calore e ",
+      "content": "La simil pelle, è un prodotto di origine non animale, ottenuta ricoprendo materiali plastici altre stoffe come lino, cotone o fibre sintetiche.\n\n\r\nCome ogni cosa ha i suoi vantaggi e svantaggi:\r\n\r\n\r\nÈ molto più economica e accessibile della pelle.\n\n\r\n\r\n\r\nResiste al calore e alla luce non cambiando colore.\n\n\r\n\r\n\r\nÈ facile da pulire.\n\n\r\n\r\n\r\nÈ idrorepellente.\n\n\r\n\r\n\r\nÈ ottima per chi soffre di allergia agli acari, proprio perche la sua facilità nella pulitura non gli lascia penetrare all’interno delle sue fibre.\n\n\r\n\r\n\r\nNonostante queste caratteristiche positive, c’è ne sono anche altrettante negative.\r\n\r\n\r\nNon è traspirante.\n\n\r\n\r\n\r\nÈ un’imitazione estetica.\n\n\r\n\r\n\r\nNon mantiene la morbidezza al tatto.\n\n\r\n\r\n\r\nIl tessuto, seppur rispetta l’ambiente, ha anch’esso i suoi vantaggi e svantaggi:\r\n\r\n\r\nPiù economico della similpelle\n\n\r\n\r\n\r\nHa un buon isolamento termico\n\n\r\n\r\n\r\nResistenza e abrasione al taglio\n\n\r\n\r\n\r\nSe opportunamente lavorato, piacevole al tatto\n\n\r\n\r\n\r\nPotrebbe però\r\n\r\nPresentare con il tempo antiestetiche palline in seguito a sfregamenti e lavaggi.\r\nSviluppa Cattivi odori e trattiene le macchie.\r\nGenera cariche elettrostatiche e fattura molta polvere.\r\nSe non sfoderabile diventa un incubo lavarlo.\r\nTende a restringersi.\r\nSi sgualcisce facilmente.",
+      "category": "Mondo Auto",
+      "publishedAt": "2020-01-28",
+      "cover": "/images/blog/simil-pelle-o-tessuto-scegli-con-cura-il-prodotto-piu-adatto-alle-tue-.jpg"
+    },
+    {
+      "slug": "per-il-tuo-cielo-auto-scegli-bene-tra-tnt-e-tessuto-spugnato",
+      "title": "Per il tuo cielo auto? Scegli bene tra TNT e TESSUTO SPUGNATO",
+      "excerpt": "Negli ultimi anni si verifica con più facilità la caduta del cielo auto, diverse persone entrano in panico al momento della scelta tessuto. Noi ai nostri clienti consigliamo il TNT per un semplice motivo: facilità di lavorazione molto più economico del tessuto",
+      "content": "Negli ultimi anni si verifica con più facilità la caduta del cielo auto, diverse persone entrano in panico al momento della scelta tessuto.\n\n\r\nNoi ai nostri clienti consigliamo il TNT per un semplice motivo:\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nfacilità di lavorazione\n\n\r\n\r\n\r\nmolto più economico del tessuto spugnato\n\n\r\n\r\n\r\nresistente alle alte temperature\n\n\r\n\r\n\r\nAnch’esso ha lati negativi\r\n\r\n\r\ndifferente dal colore originale\n\n\r\n\r\n\r\ncon lo sfregamento genera pelucchi\n\n\r\n\r\n\r\ntrattiene lo sporco, fumo e polvere\n\n\r\n\r\n\r\nIl TESSUTO SPUGNATO ha i suoi pro e contro\r\n\r\n\r\nè identico al tessuto già presente in auto\n\n\r\n\r\n\r\nha un valore economico più eccessivo\n\n\r\n\r\n\r\npresenta morbidezza al tatto\n\n\r\n\r\n\r\nSconsigliato perché presentando al retro una spugnetta biodegradabile\r\n\r\nnon resiste al cambio temperature\r\nscarsa durata\r\nnon si adatta alle sue forme originali",
+      "category": "Mondo Auto",
+      "publishedAt": "2020-01-28",
+      "cover": "/images/blog/per-il-tuo-cielo-auto-scegli-bene-tra-tnt-e-tessuto-spugnato.jpeg"
+    },
+    {
+      "slug": "il-tuo-sellino-moto-ti-risulta-scomodo-chiedimi-consigli",
+      "title": "Il tuo sellino moto ti risulta scomodo? Chiedimi consigli.",
+      "excerpt": "Con la nostra professionalità abbiamo già risolto diverse esigenze, modificando dei sellini moto per renderli più soffici e non fastidiosi e duri, che possano creare dolori vari. Si tratta di eliminare strati di spugna presenti, con attrezzi professionali, sos",
+      "content": "Con la nostra professionalità abbiamo già risolto diverse esigenze, modificando dei sellini moto per renderli più soffici e non fastidiosi e duri, che possano creare dolori vari.\n\n\r\n\nSi tratta di eliminare strati di spugna presenti, con attrezzi professionali, sostituendoli con della spugna più soffice, ma allo stesso tempo non fragile per garantire resistenza e durata, tutto questo è possibile risolverlo, non introducendo consigli non professionali di sostituirlo con memory, lattice o gomma piuma, resistenti si, ma troppo costosi e morbidi tanto da diventare di 0 spessore.\n\n\r\n \n\n\r\n \n\n\r\nDedicandoci anche al rifacimento delle selle delle moto consigliamo dei prodotti antiscivolo che garantiscono migliore aderenza nei percorsi su strada, permettendo così una maggiore sicurezza.",
+      "category": "Mondo Auto",
+      "publishedAt": "2020-01-28",
+      "cover": "/images/blog/il-tuo-sellino-moto-ti-risulta-scomodo-chiedimi-consigli.jpg"
+    }
+  ]
+}

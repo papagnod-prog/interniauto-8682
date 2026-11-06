@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "./boutique.css";
+
+/* Base globale: il tema vero e proprio è in boutique.css (classe .bp-site). */
+@layer base {
+  html {
+    background: #161715;
+    color-scheme: dark;
+  }
+  body {
+    margin: 0;
+    background: #161715;
+    color: #f1eadc;
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection {
+    background: #c89b65;
+    color: #181b15;
+  }
+}
